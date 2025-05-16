@@ -12281,6 +12281,12 @@
     },
     "done": true
   },
+  "mutantmore:mutantmore/root": {
+    "criteria": {
+      "crafting_table": "2025-05-16 03:39:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-16 03:30:22 +0000"
@@ -21741,7 +21747,8 @@
     "criteria": {
       "minecraft:taiga": "2025-05-16 03:21:47 +0000",
       "minecraft:taiga_hills": "2025-05-16 03:23:01 +0000",
-      "minecraft:river": "2025-05-16 03:31:30 +0000"
+      "minecraft:river": "2025-05-16 03:31:30 +0000",
+      "minecraft:forest": "2025-05-16 03:35:11 +0000"
     },
     "done": false
   },
@@ -23050,6 +23057,12 @@
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-16 03:39:35 +0000"
     },
     "done": true
   },

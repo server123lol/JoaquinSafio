@@ -1699,3 +1699,64 @@ java.lang.NullPointerException: null
 [16May2025 03:37:19.976] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-396, y=16, z=851}
 [16May2025 03:37:48.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 was slain by Favcrack_03 using    [Bloodseeking Netherite Axe]
 [16May2025 03:37:48.696] [Server thread/INFO] [tombstone/]: The player Banjap213 has successfully been saved
+[16May2025 03:38:02.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa was slain by Favcrack_03 using    [Bloodseeking Netherite Axe]
+[16May2025 03:38:02.880] [Server thread/INFO] [tombstone/]: The player Jxpa has successfully been saved
+[16May2025 03:38:09.409] [Worker-Main-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:38:09.410] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:38:10.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [A Strange Grave Dust]
+[16May2025 03:38:10.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[16May2025 03:38:14.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Banjap213]
+[16May2025 03:38:17.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Jxpa]
+[16May2025 03:38:24.761] [Worker-Main-3/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16May2025 03:38:28.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [The Most Useful Key]
+[16May2025 03:38:28.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[16May2025 03:38:33.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has reached the goal [A Fast Comeback]
+[16May2025 03:38:45.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has reached the goal [Chain Death]
+[16May2025 03:38:45.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa was slain by Zombie Brute
+[16May2025 03:38:45.955] [Server thread/INFO] [tombstone/]: The player Jxpa has successfully been saved
+[16May2025 03:39:00.391] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=24, y=17, z=934}
+[16May2025 03:39:27.457] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=76, y=23, z=538}
+[16May2025 03:39:32.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[16May2025 03:40:56.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Suit Up]
+[16May2025 03:41:20.078] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-304, y=33, z=1024}
+[16May2025 03:41:21.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[16May2025 03:41:26.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Acquire Hardware]
+[16May2025 03:41:56.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Isn't It Iron Pick]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [It Certainly Seems Rare...]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has completed the challenge [He Wasn't So Strong]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [A Stunning Fixation]
+[16May2025 03:43:03.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=85, y=126, z=631}
+[16May2025 03:43:03.793] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=84, y=126, z=599}
+[16May2025 03:43:03.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[16May2025 03:43:06.846] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=104, y=126, z=631}
+[16May2025 03:43:11.492] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=129, y=126, z=631}
+[16May2025 03:43:11.867] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=143, y=137, z=615}
+[16May2025 03:43:12.028] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=130, y=126, z=688}
+[16May2025 03:43:15.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Suit Up]
+[16May2025 03:43:29.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10290ms or 205 ticks behind
+[16May2025 03:43:47.815] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zander'/9395, l='ServerLevel[world]', x=142.51, y=138.00, z=617.04] died, message: 'Zander burned to death'
+[16May2025 03:43:49.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[16May2025 03:44:07.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[16May2025 03:44:16.122] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=193, y=126, z=689}
+[16May2025 03:44:16.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=30, y=25, z=1092}
+[16May2025 03:44:19.752] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=41, y=13, z=1018}
+[16May2025 03:44:28.092] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:44:28.093] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:44:36.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13664ms or 273 ticks behind
+[16May2025 03:44:58.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7932ms or 158 ticks behind
+[16May2025 03:45:22.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
+[16May2025 03:45:49.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11445ms or 228 ticks behind
+[16May2025 03:46:04.180] [Worker-Main-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:46:04.181] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:46:08.326] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-265, y=21, z=1245}
+[16May2025 03:46:17.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13069ms or 261 ticks behind
+[16May2025 03:46:39.938] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=81, y=10, z=1085}
+[16May2025 03:46:46.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13954ms or 279 ticks behind
+[16May2025 03:46:49.807] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['James'/9350, l='ServerLevel[world]', x=103.42, y=126.43, z=632.41] died, message: 'James tried to swim in lava'
+[16May2025 03:46:57.832] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=173, y=16, z=1072}
+[16May2025 03:47:10.853] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=181, y=16, z=1060}
+[16May2025 03:47:20.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19568ms or 391 ticks behind
+[16May2025 03:47:24.337] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=202, y=19, z=1288}
+[16May2025 03:47:57.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21326ms or 426 ticks behind
+[16May2025 03:48:06.439] [Worker-Main-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:48:06.439] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom

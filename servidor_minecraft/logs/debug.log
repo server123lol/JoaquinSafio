@@ -18644,3 +18644,102 @@ java.lang.NullPointerException: null
 [16May2025 03:37:48.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 was slain by Favcrack_03 using    [Bloodseeking Netherite Axe]
 [16May2025 03:37:48.641] [Server thread/DEBUG] [tombstone/]: A new grave of the player Banjap213 was created at position [x:-220, y:67, z:710, dim:minecraft:overworld]
 [16May2025 03:37:48.696] [Server thread/INFO] [tombstone/]: The player Banjap213 has successfully been saved
+[16May2025 03:38:02.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa was slain by Favcrack_03 using    [Bloodseeking Netherite Axe]
+[16May2025 03:38:02.818] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jxpa was created at position [x:-257, y:66, z:704, dim:minecraft:overworld]
+[16May2025 03:38:02.880] [Server thread/INFO] [tombstone/]: The player Jxpa has successfully been saved
+[16May2025 03:38:09.409] [Worker-Main-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:38:09.410] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:38:10.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [A Strange Grave Dust]
+[16May2025 03:38:10.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[16May2025 03:38:14.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Banjap213]
+[16May2025 03:38:17.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Jxpa]
+[16May2025 03:38:24.761] [Worker-Main-3/WARN] [ModernFix/]: The namespace quark contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16May2025 03:38:24.761] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/starts/triplex_lava is being run through DFU (hash b11ef21bf540aa2fc23b498c0ba81cc4f46c9bc9133d474424e5622ac58a2f66), this will cause launch time delays
+[16May2025 03:38:25.219] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_plain is being run through DFU (hash 36dbf4d9d1bddf154d0f9c28e9e5eb0e15f14a41672cabb1817511c234f82c08), this will cause launch time delays
+[16May2025 03:38:25.273] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_trapped is being run through DFU (hash a154ba092ce69789d8bb8ddf2c0a6fd235093148648967a6835be921fc72dcf6), this will cause launch time delays
+[16May2025 03:38:25.439] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/misc/endpoint is being run through DFU (hash d586244ea29fcfe8af449b854b356c92ea2cae2a58d8e607b45fb369f7fd0408), this will cause launch time delays
+[16May2025 03:38:25.441] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_intersection is being run through DFU (hash 07a33af9e25010569f6a95c6f42803cdfa93141766e7ca08962470044cf11983), this will cause launch time delays
+[16May2025 03:38:25.466] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_parkour is being run through DFU (hash 2a59e98160ab8a2fcbe8791a1282d363ec2218d10cb8b285696b0b68565852ee), this will cause launch time delays
+[16May2025 03:38:25.480] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_cobweb is being run through DFU (hash 21dfaf836cf05a19da8995c19c893e9c9a5fe441ecddbc3360727693ff8c1efb), this will cause launch time delays
+[16May2025 03:38:25.486] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_plain is being run through DFU (hash 6c11fc3da251197fa6d327f43b6b67f344c86e54be657b99edb372b38c30ff01), this will cause launch time delays
+[16May2025 03:38:25.516] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/right_plain is being run through DFU (hash 8cdc8781b4e9cd01a073c0d3f18318abd57f6b19af1984f964edef89304acd61), this will cause launch time delays
+[16May2025 03:38:25.521] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/left_cobweb is being run through DFU (hash 629a410d0134619730c842951433fdc3730a7d5361b1972e24e30dedf64e67cf), this will cause launch time delays
+[16May2025 03:38:25.524] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/t_plain is being run through DFU (hash 3dbcaf749db187be64d47e38b30e4d5ea8d0e121dc4b17be3a037c2e8e1651a0), this will cause launch time delays
+[16May2025 03:38:25.531] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/double_hall_silverfish is being run through DFU (hash 8ebca551c2947b0bd21d7f1e6d53dc3f074107e22283e69122b9d58c9698d11c), this will cause launch time delays
+[16May2025 03:38:25.566] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_base is being run through DFU (hash 9d7722bfee236eeedcb8c1ea03990d58ad396e2b73247c4c8844ae07f8acc208), this will cause launch time delays
+[16May2025 03:38:25.580] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/t_cobweb is being run through DFU (hash f273b7a5b1585f61f00c670a01d7f5e5f388c144cfb4db8c45f52a6a1779e53e), this will cause launch time delays
+[16May2025 03:38:25.584] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/left_plain is being run through DFU (hash 7b00261c7d0b0cdd2ca5a47428cec7414c383ca4b7c2be36c21bf9a87eaa9301), this will cause launch time delays
+[16May2025 03:38:25.588] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/ascend_ruined is being run through DFU (hash f4e384d63ede3d7942a2fde51da59deca4988a7c995315f67087464033262b2d), this will cause launch time delays
+[16May2025 03:38:25.614] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_plain is being run through DFU (hash abc5a7b79ada64e23463ecf7dcb9db51d327de4cf208da51573f0c4325947311), this will cause launch time delays
+[16May2025 03:38:25.661] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/4room_plain is being run through DFU (hash fd4a205c5c6df0192e747369ba603559bc77b8c28d45aed9e532ac88406482e9), this will cause launch time delays
+[16May2025 03:38:25.706] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_fountain is being run through DFU (hash c4a42d1de104937f4ee47a736b22613920b9d5dd438a7fe9d073d59bcb81d692), this will cause launch time delays
+[16May2025 03:38:25.719] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_tnt is being run through DFU (hash 59b2b3e64be9ba49f87d99ad705fde90ed2f76654bc06a07567753ae42368c92), this will cause launch time delays
+[16May2025 03:38:25.781] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_bush is being run through DFU (hash c820264f623748ef28e80869942580744af6b8f55b3ae37343b1f24e94da90d2), this will cause launch time delays
+[16May2025 03:38:25.789] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_room is being run through DFU (hash 7afe5aaaf1ca7db5815ced05f4cf415f992c194707d422536088a9377ba59c19), this will cause launch time delays
+[16May2025 03:38:25.799] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_redstone is being run through DFU (hash fea4e7c1f5aff9529cc4dd49f5cfbdd796dfdec59b29d46f89f7f885d225c53e), this will cause launch time delays
+[16May2025 03:38:25.819] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_plain is being run through DFU (hash 93088279ce5db7d69f0431aa748b25462f9967247c084fe0b7842410841f2101), this will cause launch time delays
+[16May2025 03:38:25.855] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/triple_library is being run through DFU (hash b16b08d9080ddeffaf1aef315fa044b5b1568071da218e1a29cdff2d7b046d29), this will cause launch time delays
+[16May2025 03:38:25.884] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/connector_melon is being run through DFU (hash 6bdde57dcab662e2873e7c7ce69d8ed19bd7f18a404e473c41ce11d05330d39f), this will cause launch time delays
+[16May2025 03:38:25.889] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/right_cobweb is being run through DFU (hash e79437b0bad7ed218c8fc69ddd974b5c45f502dee5be22215df77a80fc4b0ce5), this will cause launch time delays
+[16May2025 03:38:25.893] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/corridors/forward_plain is being run through DFU (hash f18a2830c45244343a977cbf10dc77a7f7a73360900178d0086110505a92d55c), this will cause launch time delays
+[16May2025 03:38:25.896] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/climb_plain is being run through DFU (hash 6fb486219dc1a976f70cef774828c282f17628e3dc6ed3f795fee067ecb624ba), this will cause launch time delays
+[16May2025 03:38:25.914] [Worker-Main-3/DEBUG] [ModernFix/]: Structure quark:big_dungeon/rooms/laddered_bridge is being run through DFU (hash 5c31ab2ed43db01e225c5cfd04b0fbb041c06a9ef97965e4370b3794d1a58375), this will cause launch time delays
+[16May2025 03:38:28.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [The Most Useful Key]
+[16May2025 03:38:28.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3042ms or 60 ticks behind
+[16May2025 03:38:33.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has reached the goal [A Fast Comeback]
+[16May2025 03:38:45.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has reached the goal [Chain Death]
+[16May2025 03:38:45.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa was slain by Zombie Brute
+[16May2025 03:38:45.944] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jxpa was created at position [x:-260, y:66, z:707, dim:minecraft:overworld]
+[16May2025 03:38:45.955] [Server thread/INFO] [tombstone/]: The player Jxpa has successfully been saved
+[16May2025 03:39:00.391] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=24, y=17, z=934}
+[16May2025 03:39:27.457] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=76, y=23, z=538}
+[16May2025 03:39:27.930] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 03:39:27.954] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 03:39:32.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[16May2025 03:40:56.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Suit Up]
+[16May2025 03:41:20.078] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-304, y=33, z=1024}
+[16May2025 03:41:21.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[16May2025 03:41:26.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Acquire Hardware]
+[16May2025 03:41:56.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Isn't It Iron Pick]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [It Certainly Seems Rare...]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has completed the challenge [He Wasn't So Strong]
+[16May2025 03:42:47.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [A Stunning Fixation]
+[16May2025 03:43:03.344] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=85, y=126, z=631}
+[16May2025 03:43:03.793] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=84, y=126, z=599}
+[16May2025 03:43:03.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[16May2025 03:43:06.846] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=104, y=126, z=631}
+[16May2025 03:43:11.492] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=129, y=126, z=631}
+[16May2025 03:43:11.867] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=143, y=137, z=615}
+[16May2025 03:43:12.028] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=130, y=126, z=688}
+[16May2025 03:43:15.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Suit Up]
+[16May2025 03:43:29.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10290ms or 205 ticks behind
+[16May2025 03:43:47.815] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['Zander'/9395, l='ServerLevel[world]', x=142.51, y=138.00, z=617.04] died, message: 'Zander burned to death'
+[16May2025 03:43:49.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[16May2025 03:44:07.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2790ms or 55 ticks behind
+[16May2025 03:44:16.122] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=193, y=126, z=689}
+[16May2025 03:44:16.920] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=30, y=25, z=1092}
+[16May2025 03:44:19.752] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=41, y=13, z=1018}
+[16May2025 03:44:28.092] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:44:28.093] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:44:36.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13664ms or 273 ticks behind
+[16May2025 03:44:58.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7932ms or 158 ticks behind
+[16May2025 03:45:01.673] [Server thread/DEBUG] [mixin/]: Mixing MixinVoxelShapeSpliterator from assets/astralsorcery/astralsorcery.mixins.json into net.minecraft.util.math.shapes.VoxelShapeSpliterator
+[16May2025 03:45:22.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
+[16May2025 03:45:25.521] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 03:45:25.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 03:45:49.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11445ms or 228 ticks behind
+[16May2025 03:46:04.180] [Worker-Main-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:46:04.181] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:46:08.326] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-265, y=21, z=1245}
+[16May2025 03:46:17.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13069ms or 261 ticks behind
+[16May2025 03:46:39.938] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=81, y=10, z=1085}
+[16May2025 03:46:46.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13954ms or 279 ticks behind
+[16May2025 03:46:49.807] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntityMCA['James'/9350, l='ServerLevel[world]', x=103.42, y=126.43, z=632.41] died, message: 'James tried to swim in lava'
+[16May2025 03:46:54.949] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 128 1472 9 0 false
+[16May2025 03:46:57.832] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=173, y=16, z=1072}
+[16May2025 03:47:10.853] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=181, y=16, z=1060}
+[16May2025 03:47:20.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19568ms or 391 ticks behind
+[16May2025 03:47:24.337] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=202, y=19, z=1288}
+[16May2025 03:47:57.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21326ms or 426 ticks behind
+[16May2025 03:48:06.439] [Worker-Main-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:48:06.439] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
