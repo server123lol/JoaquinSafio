@@ -5351,6 +5351,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-05-16 03:53:16 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:45 +0000"
@@ -6599,6 +6605,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-05-16 03:50:13 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:45 +0000"
@@ -7388,6 +7400,12 @@
   "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-05-16 03:51:47 +0000"
     },
     "done": true
   },
@@ -16397,6 +16415,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-05-16 03:51:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dark_scoria_bricks_stairs_from_fancy_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:46 +0000"
@@ -16679,6 +16703,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-05-16 03:51:47 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_rowboat": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:45 +0000"
@@ -16718,6 +16748,12 @@
   "farmersdelight:recipes/farmersdelight/rice_bale": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2025-05-16 03:51:47 +0000"
     },
     "done": true
   },
@@ -22246,6 +22282,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-05-16 03:53:15 +0000",
       "bread": "2025-05-16 03:25:18 +0000"
     },
     "done": false

@@ -18743,3 +18743,127 @@ java.lang.NullPointerException: null
 [16May2025 03:47:57.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21326ms or 426 ticks behind
 [16May2025 03:48:06.439] [Worker-Main-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
 [16May2025 03:48:06.439] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:48:29.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17828ms or 356 ticks behind
+[16May2025 03:49:02.123] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-150, y=32, z=1655} but found not block entity block Block{quark:marble} at location
+[16May2025 03:49:02.123] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:marble} but failed at location BlockPos{x=-150, y=32, z=1655}
+[16May2025 03:49:02.124] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-157, y=29, z=1649} but found not block entity block Block{minecraft:stone} at location
+[16May2025 03:49:02.124] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-157, y=29, z=1649}
+[16May2025 03:49:02.364] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-140, y=35, z=1651} but found not block entity block Block{quark:marble} at location
+[16May2025 03:49:02.364] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{quark:marble} but failed at location BlockPos{x=-140, y=35, z=1651}
+[16May2025 03:49:03.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18882ms or 377 ticks behind
+[16May2025 03:49:22.015] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-319, y=24, z=1436}
+[16May2025 03:49:38.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19624ms or 392 ticks behind
+[16May2025 03:49:47.217] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-413, y=12, z=1440}
+[16May2025 03:50:02.278] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-427, y=11, z=1456}
+[16May2025 03:50:07.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14409ms or 288 ticks behind
+[16May2025 03:50:09.450] [Worker-Main-1/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -640 1440 4 5 true
+[16May2025 03:50:21.102] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 35775178-4b09-4be8-917d-8b874787825c. Existing mca:male_villager#12958, new: mca:male_villager#12958
+[16May2025 03:50:21.103] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0e1c161e-24c3-42b1-a4e9-4c9c8ff14ef8. Existing mca:female_villager#12959, new: mca:female_villager#12959
+[16May2025 03:50:21.103] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID b1489e7a-1e2e-43fa-b12a-6c30c2eda883. Existing mca:female_villager#12960, new: mca:female_villager#12960
+[16May2025 03:50:37.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14372ms or 287 ticks behind
+[16May2025 03:51:06.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14021ms or 280 ticks behind
+[16May2025 03:51:16.687] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at 48 2000 9 0 false
+[16May2025 03:51:20.765] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-285, y=44, z=1855}
+[16May2025 03:51:33.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12625ms or 252 ticks behind
+[16May2025 03:51:43.338] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-285, y=44, z=1856}
+[16May2025 03:51:47.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [I Found It Underground]
+[16May2025 03:51:47.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [A Stunning Fixation]
+[16May2025 03:51:47.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Not Quite Common]
+[16May2025 03:51:47.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [It Certainly Seems Rare...]
+[16May2025 03:51:57.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8823ms or 176 ticks behind
+[16May2025 03:52:02.816] [Worker-Main-2/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:52:02.816] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:52:22.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10075ms or 201 ticks behind
+[16May2025 03:52:47.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9484ms or 189 ticks behind
+[16May2025 03:53:11.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9122ms or 182 ticks behind
+[16May2025 03:53:36.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10166ms or 203 ticks behind
+[16May2025 03:53:42.053] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=65, y=28, z=1791}
+[16May2025 03:53:51.605] [Worker-Main-3/DEBUG] [com.BrassAmber.ba_bt.BrassAmberBattleTowers/]: Land Battle Tower at -416 2064 3 6 true
+[16May2025 03:53:58.577] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=116, y=40, z=1768}
+[16May2025 03:54:02.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11659ms or 233 ticks behind
+[16May2025 03:54:27.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9589ms or 191 ticks behind
+[16May2025 03:54:54.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11698ms or 233 ticks behind
+[16May2025 03:54:57.173] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=255, y=11, z=1428}
+[16May2025 03:54:57.968] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-109, y=22, z=1919}
+[16May2025 03:54:57.994] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16May2025 03:54:58.011] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16May2025 03:54:58.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Banjap213 to Jxpa]
+[16May2025 03:55:11.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa was slain by Lightning Dragon
+[16May2025 03:55:11.694] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jxpa was created at position [x:15, y:66, z:1713, dim:minecraft:overworld]
+[16May2025 03:55:11.733] [Server thread/INFO] [tombstone/]: The player Jxpa has successfully been saved
+[16May2025 03:55:16.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Jxpa to Banjap213]
+[16May2025 03:55:17.817] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[16May2025 03:55:17.817] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[16May2025 03:55:17.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 was struck with lightning by Lightning Dragon
+[16May2025 03:55:17.818] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[16May2025 03:55:17.818] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[16May2025 03:55:17.818] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:55:17.818] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:55:17.818] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[16May2025 03:55:17.819] [Server thread/DEBUG] [tombstone/]: A new grave of the player Banjap213 was created at position [x:24, y:65, z:1728, dim:minecraft:overworld]
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[16May2025 03:55:17.819] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[16May2025 03:55:17.820] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[16May2025 03:55:17.820] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16May2025 03:55:17.870] [Server thread/INFO] [tombstone/]: The player Banjap213 could not be saved
+[16May2025 03:55:26.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16991ms or 339 ticks behind
+[16May2025 03:55:27.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Banjap213 to Jxpa]
+[16May2025 03:55:29.911] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=203, y=36, z=1790}
+[16May2025 03:55:30.709] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=220, y=22, z=1800}
+[16May2025 03:55:30.803] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=209, y=40, z=1902}
+[16May2025 03:55:51.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10256ms or 205 ticks behind
+[16May2025 03:56:00.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [One Man's Trash]
+[16May2025 03:56:00.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [I Found It Underground]
+[16May2025 03:56:14.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
+[16May2025 03:56:39.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9517ms or 190 ticks behind
+[16May2025 03:56:57.406] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:56:57.407] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:57:01.810] [Worker-Main-3/WARN] [ModernFix/]: The namespace savageandravage contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16May2025 03:57:01.810] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/pillager is being run through DFU (hash b71978f13aa814dfd7d0c11fd613ea3a61e7d0a0bd917e3a79dd04abcf02d37a), this will cause launch time delays
+[16May2025 03:57:01.812] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/vindicator is being run through DFU (hash afac60a7100c8956a3ccb5f3ebeda43f185ec8469886a4bfe789028d78185f2d), this will cause launch time delays
+[16May2025 03:57:01.814] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block0 is being run through DFU (hash e8a01467e5f3442364bb18263ecebf985c93c054dd452c8df91b31c038130f0d), this will cause launch time delays
+[16May2025 03:57:01.814] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block1 is being run through DFU (hash f5c3d09ccf5b19849a2ffa91bf6e170d5745c3d7f523f87804e20224da99923e), this will cause launch time delays
+[16May2025 03:57:01.814] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block2 is being run through DFU (hash cf3126c74cc9dfe182744547f9cbb467785b27ecd39ae7728ee2d00d54aa4a61), this will cause launch time delays
+[16May2025 03:57:01.815] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block3 is being run through DFU (hash 433a06cd4717562c389dff44d4f99193ee47e01208c8d0cce0e2863afc2558d5), this will cause launch time delays
+[16May2025 03:57:01.816] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block4 is being run through DFU (hash 8018aabc13c45e3c4d31b8025b2331b65cb6f9f75e39851b0861e71e3ce868c9), this will cause launch time delays
+[16May2025 03:57:01.816] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block5 is being run through DFU (hash 0da00d5a92cfd62c308910ee42d7f1cc1a17d8a33cc831c9e8d259cc50cf015d), this will cause launch time delays
+[16May2025 03:57:01.816] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block6 is being run through DFU (hash d6d7b6fae8593c625120f8957eb60c43f4eb3a186df378b04ea967f54cf19be1), this will cause launch time delays
+[16May2025 03:57:01.817] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block7 is being run through DFU (hash 2aca81df5a3aa241d959cb7d734caddb1007d057a23d0e798e10b79778a1d85f), this will cause launch time delays
+[16May2025 03:57:01.817] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block8 is being run through DFU (hash 9949d92abcd4fbfb95987624a52595cf8b6054f58e8d7d00ed366f8073187666), this will cause launch time delays
+[16May2025 03:57:01.818] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block9 is being run through DFU (hash 3972f61fa85b84f8ad6d33169455388ecc1fe7c89725b804f179ac6de3d05709), this will cause launch time delays
+[16May2025 03:57:01.819] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block10 is being run through DFU (hash 95f536642543cc1cefe89f55eeee6a3b531c0ccc5aaad3774c13ab3a6868c1ac), this will cause launch time delays
+[16May2025 03:57:01.819] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block11 is being run through DFU (hash dc68d42a15552befd5b8c7e7b7cee783fc3eabfa268d8560d79ff6a878e0b152), this will cause launch time delays
+[16May2025 03:57:01.819] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block12 is being run through DFU (hash 9fcd0f4d7890e7f8c43989e723edcf139998e7537b7196ae136b8f1a44f7d23b), this will cause launch time delays
+[16May2025 03:57:01.820] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block13 is being run through DFU (hash d33ef6d426caa43ed37688647774f2bdd3d23930768f372e582869b20686c1eb), this will cause launch time delays
+[16May2025 03:57:01.820] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block14 is being run through DFU (hash d340db650bdae0493770ee32c3cbaf893283fa6d46896098c7da95f3d5ef77f0), this will cause launch time delays
+[16May2025 03:57:01.821] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block15 is being run through DFU (hash 53b5993cfb0a17b56f5ea9d697ae077e87ebbb8e1350a11f9760b8cc0279e6e4), this will cause launch time delays
+[16May2025 03:57:01.822] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block16 is being run through DFU (hash a9e68a6531effd07055fd84316dd2a21f4e7517223157212f33caf6474bf644e), this will cause launch time delays
+[16May2025 03:57:01.822] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block17 is being run through DFU (hash 19458022ce2226fd30a7b4eae573301222b7ddcea26799270366ec2ddfe59d7c), this will cause launch time delays
+[16May2025 03:57:01.823] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block18 is being run through DFU (hash 9cd8551207da36a0513ed55f84afc5b2dc726968702ff224b064c2334d27e2fa), this will cause launch time delays
+[16May2025 03:57:01.823] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block19 is being run through DFU (hash c642277a93555a2c43e072253aa00f47e3da0b0849cbf70ae2afffbf0fefe54d), this will cause launch time delays
+[16May2025 03:57:01.824] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block20 is being run through DFU (hash 3b84926b09622cee3d6cc5f55930eb658e0d69b24837f3c032dac5fb78995736), this will cause launch time delays
+[16May2025 03:57:01.824] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block21 is being run through DFU (hash 3d83bbbeec0645eca922b34a2c78dc8f6482297eb7249f6e05eb9bb906e9de1d), this will cause launch time delays
+[16May2025 03:57:01.824] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block22 is being run through DFU (hash 4e1356663a41c207ff2d255b508f2ca811f99105d6cbd3e25cd0b4039a4f2b4a), this will cause launch time delays
+[16May2025 03:57:01.825] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block23 is being run through DFU (hash a7b51a1f8532677c8781d9d9afa8b36c8ce01ece3135309d557582e71cd74c4e), this will cause launch time delays
+[16May2025 03:57:01.825] [Worker-Main-3/DEBUG] [ModernFix/]: Structure savageandravage:pillager_outpost/note_blocks/note_block24 is being run through DFU (hash 7fa8d7fc9fbbd7938d81c75a14778c983e1b8e2dc400d8f2c9b01884f77523cd), this will cause launch time delays
+[16May2025 03:57:06.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11874ms or 237 ticks behind
+[16May2025 03:57:14.389] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Favcrack_03 with unique ID 691288cd-104e-4469-b5e5-7f92e516a3d9
+[16May2025 03:57:14.390] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -270 Y: 33 Z: 663
+[16May2025 03:57:14.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 was blown up by Creeper
+[16May2025 03:57:14.392] [Server thread/DEBUG] [tombstone/]: A new grave of the player Favcrack_03 was created at position [x:-268, y:32, z:663, dim:minecraft:overworld]
+[16May2025 03:57:14.425] [Server thread/INFO] [tombstone/]: The player Favcrack_03 has successfully been saved
+[16May2025 03:57:24.637] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=384, y=23, z=1798} but found not block entity block Block{minecraft:stone} at location
+[16May2025 03:57:24.637] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=384, y=23, z=1798}
+[16May2025 03:57:24.637] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=386, y=23, z=1802} but found not block entity block Block{minecraft:stone} at location
+[16May2025 03:57:24.638] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=386, y=23, z=1802}
+[16May2025 03:57:26.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Favcrack_03]
+[16May2025 03:57:34.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13487ms or 269 ticks behind
+[16May2025 03:57:40.970] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16May2025 03:57:40.971] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16May2025 03:57:54.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Creepie Crawly]
+[16May2025 03:58:00.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10513ms or 210 ticks behind
+[16May2025 03:58:09.063] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=128, y=26, z=2034}
