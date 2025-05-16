@@ -7628,6 +7628,12 @@
     },
     "done": true
   },
+  "savageandravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-05-16 03:57:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-05-16 03:28:00 +0000"
@@ -20084,6 +20090,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-16 03:58:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_bricks_from_dark_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:18:32 +0000"
@@ -21910,9 +21922,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-05-16 04:03:47 +0000",
       "minecraft:taiga": "2025-05-16 03:18:36 +0000",
       "minecraft:taiga_hills": "2025-05-16 03:25:05 +0000",
-      "minecraft:river": "2025-05-16 03:28:34 +0000"
+      "minecraft:river": "2025-05-16 03:28:34 +0000",
+      "minecraft:swamp": "2025-05-16 04:02:52 +0000"
     },
     "done": false
   },
@@ -22410,6 +22424,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-16 04:01:04 +0000",
       "mutton": "2025-05-16 03:24:00 +0000",
       "upgrade_aquatic:perch": "2025-05-16 03:32:35 +0000",
       "sweet_berries": "2025-05-16 03:24:54 +0000",
@@ -22960,6 +22975,12 @@
   "create:recipes/create.palettes/paved_dolomite_from_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:18:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:58:26 +0000"
     },
     "done": true
   },

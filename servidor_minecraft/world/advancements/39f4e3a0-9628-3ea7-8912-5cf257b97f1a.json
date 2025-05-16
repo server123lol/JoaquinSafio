@@ -3703,7 +3703,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-05-16 03:32:01 +0000"
+      "minecraft:skeleton": "2025-05-16 03:32:01 +0000",
+      "savageandravage:creepie": "2025-05-16 03:59:43 +0000"
     },
     "done": false
   },
@@ -16085,6 +16086,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-05-16 03:55:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:21:46 +0000"
@@ -21781,9 +21788,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-05-16 03:58:46 +0000",
       "minecraft:taiga": "2025-05-16 03:21:47 +0000",
       "minecraft:taiga_hills": "2025-05-16 03:23:01 +0000",
       "minecraft:river": "2025-05-16 03:31:30 +0000",
+      "minecraft:swamp": "2025-05-16 04:03:05 +0000",
       "minecraft:forest": "2025-05-16 03:35:11 +0000"
     },
     "done": false

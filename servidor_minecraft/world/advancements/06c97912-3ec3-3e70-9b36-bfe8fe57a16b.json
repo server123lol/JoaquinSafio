@@ -5653,6 +5653,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2025-05-16 03:56:00 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/thallasium_bulb_lantern_red": {
     "criteria": {
       "has_the_recipe": "2025-05-15 18:51:11 +0000"
@@ -12889,6 +12895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-16 03:55:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_planks": {
     "criteria": {
       "has_the_recipe": "2025-05-15 18:51:10 +0000"
@@ -16744,6 +16756,12 @@
   "draconicevolution:recipes/draconicevolution.items/reactor_prt_out_rotor": {
     "criteria": {
       "has_the_recipe": "2025-05-15 18:51:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-05-16 03:56:00 +0000"
     },
     "done": true
   },
@@ -21843,8 +21861,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mountains": "2025-05-16 03:57:05 +0000",
       "minecraft:taiga": "2025-05-15 18:51:12 +0000",
       "minecraft:taiga_hills": "2025-05-16 03:23:49 +0000",
+      "minecraft:birch_forest": "2025-05-16 04:03:30 +0000",
       "minecraft:beach": "2025-05-15 18:53:06 +0000",
       "minecraft:river": "2025-05-16 03:29:28 +0000",
       "minecraft:forest": "2025-05-16 03:35:05 +0000"
@@ -22351,6 +22371,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-16 03:57:53 +0000",
       "cooked_beef": "2025-05-16 03:26:58 +0000",
       "mutton": "2025-05-16 03:40:36 +0000",
       "bread": "2025-05-16 03:47:23 +0000",
