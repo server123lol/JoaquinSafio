@@ -1564,3 +1564,138 @@ java.lang.NullPointerException: null
 [16May2025 03:25:18.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Knowledge of Death]
 [16May2025 03:25:18.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Easter Food]
 [16May2025 03:25:39.147] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-422, y=30, z=512}
+[16May2025 03:26:58.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Yuri on ice]
+[16May2025 03:27:13.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[16May2025 03:27:21.601] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:27:21.602] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:27:30.485] [Worker-Main-1/WARN] [ModernFix/]: The namespace apotheosis contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16May2025 03:27:43.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16May2025 03:27:45.772] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-467, y=22, z=611}
+[16May2025 03:27:51.769] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 0650c6f2-15c3-4357-b8b4-595a5c56bcce. Existing mca:male_villager#3027, new: mca:male_villager#3027
+[16May2025 03:27:55.696] [Worker-Main-1/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:27:55.697] [Worker-Main-1/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:27:56.580] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-451, y=30, z=647}
+[16May2025 03:28:02.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
+[16May2025 03:28:13.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Suit Up]
+[16May2025 03:28:13.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Acquire Hardware]
+[16May2025 03:28:15.063] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-555, y=15, z=683}
+[16May2025 03:28:16.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Isn't It Iron Pick]
+[16May2025 03:28:54.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Stone Age]
+[16May2025 03:29:33.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Monster Hunter]
+[16May2025 03:29:48.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Getting an Upgrade]
+[16May2025 03:29:50.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 was shot by Skeleton
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:29:50.683] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[16May2025 03:29:50.684] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16May2025 03:29:50.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Your First Grave]
+[16May2025 03:29:50.694] [Server thread/INFO] [tombstone/]: The player Favcrack_03 could not be saved
+[16May2025 03:29:55.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Favcrack_03 to Jxpa]
+[16May2025 03:30:03.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has reached the goal [Here They Come]
+[16May2025 03:30:11.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Favcrack_03]
+[16May2025 03:30:13.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Banjap213 to Jxpa]
+[16May2025 03:30:17.638] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-340, y=63, z=525} BlockPos{x=-340, y=61, z=525}
+[16May2025 03:30:18.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [The Most Useful Key]
+[16May2025 03:30:19.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Knowledge of Death]
+[16May2025 03:30:19.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Easter Food]
+[16May2025 03:30:23.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has reached the goal [A Fast Comeback]
+[16May2025 03:30:35.888] [Server thread/WARN] [ModernFix/]: Couldn't find block entity on chest Block{minecraft:air} at BlockPos{x=-378, y=87, z=499}
+[16May2025 03:30:36.331] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-152, y=32, z=702}
+[16May2025 03:30:37.063] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-247, y=28, z=706}
+[16May2025 03:30:37.224] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-467, y=15, z=712}
+[16May2025 03:30:43.397] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-491, y=15, z=732}
+[16May2025 03:30:43.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2581ms or 51 ticks behind
+[16May2025 03:31:03.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
+[16May2025 03:31:21.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[16May2025 03:31:30.609] [Worker-Main-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:31:30.609] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:31:37.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Diamonds!]
+[16May2025 03:31:38.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16May2025 03:31:54.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Not Today, Thank You]
+[16May2025 03:31:58.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5832ms or 116 ticks behind
+[16May2025 03:32:01.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Monster Hunter]
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:32:16.833] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:32:16.834] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:32:16.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 was shot by Skeleton
+[16May2025 03:32:16.834] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:32:16.834] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:32:16.834] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[16May2025 03:32:16.835] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[16May2025 03:32:16.835] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[16May2025 03:32:16.835] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[16May2025 03:32:16.835] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16May2025 03:32:16.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [Your First Grave]
+[16May2025 03:32:16.846] [Server thread/INFO] [tombstone/]: The player Banjap213 could not be saved
+[16May2025 03:32:19.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5559ms or 111 ticks behind
+[16May2025 03:32:27.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Banjap213]
+[16May2025 03:32:32.249] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-545, y=11, z=712}
+[16May2025 03:32:33.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [The Most Useful Key]
+[16May2025 03:32:38.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has reached the goal [A Fast Comeback]
+[16May2025 03:32:42.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7934ms or 158 ticks behind
+[16May2025 03:32:42.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has reached the goal [Here They Come]
+[16May2025 03:32:46.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Sweet Dreams]
+[16May2025 03:32:55.111] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=64, y=34, z=-71}
+[16May2025 03:32:56.016] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=69, y=27, z=-87}
+[16May2025 03:32:57.557] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Favcrack_03 moved too quickly! 9.527753576581574,2.249187078744683,2.86086738258723
+[16May2025 03:32:57.773] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Jxpa moved too quickly! -9.243238107207468,3.024424088213692,2.480773685034789
+[16May2025 03:33:07.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 has made the advancement [A Strange Grave Dust]
+[16May2025 03:33:07.668] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Favcrack_03 moved too quickly! 7.0577834951409955,0.3322907274746427,7.630226713745515
+[16May2025 03:33:09.036] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: CPLander moved too quickly! -8.79740644060547,0.48249998688697815,5.214697363064431
+[16May2025 03:33:24.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27054ms or 541 ticks behind
+[16May2025 03:33:43.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[16May2025 03:33:57.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported CPLander to Jxpa]
+[16May2025 03:34:01.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
+[16May2025 03:34:08.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Teleported Banjap213 to Jxpa]
+[16May2025 03:34:16.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Monster Hunter]
+[16May2025 03:34:42.323] [Worker-Main-3/ERROR] [net.minecraft.util.registry.SimpleRegistry/]: Adding duplicate value 'net.minecraft.world.gen.feature.jigsaw.JigsawPattern@67b7954d' to registry
+[16May2025 03:34:42.324] [Worker-Main-3/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: towers_of_the_wild:regular_bottom
+[16May2025 03:34:43.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[16May2025 03:34:48.220] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=60, y=126, z=599}
+[16May2025 03:34:53.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Rotten to the Core]
+[16May2025 03:34:59.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Best Friends Forever]
+[16May2025 03:34:59.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Jxpa has made the advancement [Stay Out of my Peripheral!]
+[16May2025 03:35:07.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [I Found It Underground]
+[16May2025 03:35:07.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [A Stunning Fixation]
+[16May2025 03:35:07.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Not Quite Common]
+[16May2025 03:35:07.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [It Certainly Seems Rare...]
+[16May2025 03:35:08.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 blew up
+[16May2025 03:35:08.509] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[16May2025 03:35:08.510] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[16May2025 03:35:08.511] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[16May2025 03:35:08.511] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[16May2025 03:35:08.511] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[16May2025 03:35:08.511] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[16May2025 03:35:08.511] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[16May2025 03:35:08.524] [Server thread/INFO] [tombstone/]: The player Favcrack_03 could not be saved
+[16May2025 03:35:12.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CPLander has made the advancement [Monster Hunter]
+[16May2025 03:35:14.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Jxpa: Gave 1    [Ender Pearl] to Favcrack_03]
+[16May2025 03:37:06.394] [Worker-Main-3/WARN] [ModernFix/]: The namespace astralsorcery contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[16May2025 03:37:11.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Favcrack_03 has made the advancement [Isn't It Iron Pick]
+[16May2025 03:37:19.976] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-396, y=16, z=851}
+[16May2025 03:37:48.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Banjap213 was slain by Favcrack_03 using    [Bloodseeking Netherite Axe]
+[16May2025 03:37:48.696] [Server thread/INFO] [tombstone/]: The player Banjap213 has successfully been saved

@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2025-05-16 03:28:56 +0000"
+    },
+    "done": true
+  },
   "betterendforge:recipes/betterendforge/missing_tile": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
@@ -1262,6 +1280,12 @@
   "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -1694,6 +1718,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-16 03:24:06 +0000"
     },
     "done": true
   },
@@ -2630,6 +2660,12 @@
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -3953,6 +3989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/scoria_bricks_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
@@ -4859,6 +4901,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:30:19 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_stone_stairs_stonecutter": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
@@ -4958,6 +5006,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -6647,6 +6701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-16 03:24:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_cobble_wall": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
@@ -7304,6 +7364,12 @@
   "farmersdelight:recipes/farmersdelight/dark_oak_pantry": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/eat_easter_egg_food": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:30:19 +0000"
     },
     "done": true
   },
@@ -8705,6 +8771,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-16 03:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
@@ -8813,6 +8885,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "beginning_village": "2025-05-16 03:24:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/queens_slime_ingot_from_nuggets": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
@@ -8912,6 +8990,12 @@
   "minecraft:recipes/travelersbackpack/cow_smithing_netherite": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -10388,6 +10472,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-16 03:24:06 +0000"
     },
     "done": true
   },
@@ -12137,6 +12227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-16 03:24:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
@@ -12311,6 +12407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
@@ -12320,6 +12422,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-16 03:24:06 +0000"
     },
     "done": true
   },
@@ -15305,6 +15413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
@@ -15500,6 +15614,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-16 03:30:19 +0000"
     },
     "done": true
   },
@@ -16628,6 +16748,12 @@
   "supplementaries:recipes/illuminator": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -17867,6 +17993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
@@ -17960,6 +18092,12 @@
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -18158,6 +18296,12 @@
   "betterendforge:recipes/betterendforge/iron_bulb_lantern_black": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
@@ -18380,6 +18524,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/iron_blacksmith_gavel": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-16 03:24:32 +0000"
     },
     "done": true
   },
@@ -20281,7 +20431,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2025-05-16 03:20:23 +0000"
+      "minecraft:taiga": "2025-05-16 03:20:23 +0000",
+      "minecraft:taiga_hills": "2025-05-16 03:25:45 +0000"
     },
     "done": false
   },
@@ -20777,6 +20928,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-05-16 03:30:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
@@ -21065,6 +21222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-16 03:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:20 +0000"
@@ -21251,6 +21414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
@@ -21272,6 +21441,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_the_recipe": "2025-05-16 03:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-05-16 03:29:01 +0000"
     },
     "done": true
   },
